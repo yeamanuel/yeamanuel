@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I'm Yeamanuel
 
-<!--
-**yeamanuel/yeamanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 I'm from Ethiopia  
+💻 Passionate about Technology  
+📚 Currently learning **Vibe Coding**, **Forex Trading**, and **Cryptocurrency**  
+🚀 Exploring the world of **Software Development**, **Blockchain**, and **FinTech**  
+🌱 Eager to build real-world projects and grow in the tech space
 
-Here are some ideas to get you started:
+## 🛠️ Tech & Tools I'm Exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: Node.js (Vibe framework), Express
+- Tools: Git, GitHub, VS Code
+- Finance: MetaTrader 4/5, TradingView, Crypto Wallets
+
+## 📈 Goals for 2025
+- Build and deploy full-stack web applications  
+    
+- Contribute to open-source projects  
+- Deepen my understanding of blockchain and smart contracts
+
+## 📫 How to reach me
+- Email: [yeamanueltesfaye@gmail.com]
+- Telegram: [your Telegram username]
+- LinkedIn: [your LinkedIn link if you have one]
+
+---
+
+> "The future belongs to those who code it." 🔥
+
+Thanks for visiting my profile!
